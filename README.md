@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Ruby, VueJs**
 
-- 👨‍💻 All of my projects are available at [majnioui.me](majnioui.me)
+- 👨‍💻 My humble online footprint can be found on [majnioui.me](majnioui.me)
 
-- 📫 How to reach me **mo@majnioui.me**
+- 📫 You can reach me at **mo@majnioui.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
