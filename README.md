@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby, VueJs**
 
-- 👨‍💻 My humble online footprint can be found on [http://majnioui.me](http://majnioui.me)
+- 👨‍💻 My humble online footprint can be found on [https://majnioui.me](http://majnioui.me)
 
 - 📫 You can reach me at **mo@majnioui.me**
 
